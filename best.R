@@ -1,3 +1,5 @@
+#First part of Programming Assignment 3 for R Programming on Coursera
+
 best <- function(state, outcome){
         
         data <- read.csv("outcome-of-care-measures.csv", colClasses = "character")
